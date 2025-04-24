@@ -1,1 +1,1 @@
-https://konako39.github.io/cat_game/
+[ゲーム](https://konako39.github.io/cat_game/)
